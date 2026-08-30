@@ -46,6 +46,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -55,6 +56,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
