@@ -9,6 +9,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -48,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -67,4 +69,16 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
