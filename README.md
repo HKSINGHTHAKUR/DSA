@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
