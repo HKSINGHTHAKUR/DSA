@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
@@ -66,6 +67,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
