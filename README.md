@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
+| [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -58,6 +60,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
 ## Greedy
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
