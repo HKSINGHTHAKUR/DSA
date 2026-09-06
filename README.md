@@ -53,6 +53,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -110,4 +111,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
