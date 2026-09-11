@@ -10,6 +10,7 @@
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -61,6 +62,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -84,6 +86,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -138,4 +141,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
