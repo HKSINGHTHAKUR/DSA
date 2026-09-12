@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -48,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3875-construct-uniform-parity-array-i) |
