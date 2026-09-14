@@ -53,6 +53,7 @@
 | [0012-integer-to-roman](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
