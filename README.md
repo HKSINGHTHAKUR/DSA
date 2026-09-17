@@ -10,6 +10,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -66,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0496-next-greater-element-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
@@ -162,4 +164,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
