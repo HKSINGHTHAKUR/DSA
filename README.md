@@ -67,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -181,4 +183,16 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
