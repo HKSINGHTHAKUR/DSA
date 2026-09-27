@@ -67,6 +67,7 @@
 | [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0152-maximum-product-subarray) |
 ## Pigeonhole Principle
 |  |
