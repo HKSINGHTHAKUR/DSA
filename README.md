@@ -117,6 +117,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -167,12 +168,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -180,6 +183,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
