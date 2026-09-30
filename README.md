@@ -168,6 +168,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
