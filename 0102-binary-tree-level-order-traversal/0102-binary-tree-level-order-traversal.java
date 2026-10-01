@@ -29,6 +29,8 @@ class Solution {
                 TreeNode node = queue.poll();
                 level.add(node.val);
 
+    
+
                 if(node.left!=null){
                     queue.add(node.left);
                 }
