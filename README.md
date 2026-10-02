@@ -78,6 +78,7 @@
 | [0523-continuous-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0724-find-pivot-index) |
+| [0994-rotting-oranges](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HKSINGHTHAKUR/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -120,12 +121,14 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0994-rotting-oranges](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
