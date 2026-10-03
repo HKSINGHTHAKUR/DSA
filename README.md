@@ -25,6 +25,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0290-word-pattern) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -206,6 +207,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
