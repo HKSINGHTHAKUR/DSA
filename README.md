@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0290-word-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0678-valid-parenthesis-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -149,6 +151,7 @@
 | [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -210,6 +213,7 @@
 | [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,4 +251,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
