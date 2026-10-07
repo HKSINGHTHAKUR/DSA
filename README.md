@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0074-search-a-2d-matrix) |
