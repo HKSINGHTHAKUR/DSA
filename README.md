@@ -73,6 +73,7 @@
 | [0056-merge-intervals](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -118,6 +119,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0136-single-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
