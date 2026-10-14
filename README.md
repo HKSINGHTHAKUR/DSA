@@ -26,6 +26,7 @@
 | [0012-integer-to-roman](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0290-word-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0678-valid-parenthesis-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HKSINGHTHAKUR/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0202-happy-number) |
@@ -258,4 +260,20 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0678-valid-parenthesis-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HKSINGHTHAKUR/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
